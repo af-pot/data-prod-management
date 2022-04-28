@@ -1,2 +1,2 @@
-# data prod management
+# Data Prod Management
 GitHub uses GitHub to manage products
